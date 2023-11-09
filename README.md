@@ -1,16 +1,19 @@
-### Hi there 👋
+# Prof. Volker Stolz
 
-<!--
-**VolkerStolz/VolkerStolz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m professor in Software Engineering at the Høgskulen på Vestlandet (HVL). You can [visit my personal homepage](https://selabhvl.github.io/vsto/), or [visit my static institutional page](https://www.hvl.no/en/studies-at-hvl/study-programmes/information-technology-bergen/).
 
-Here are some ideas to get you started:
+## Research Areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Refactoring
+* Aggregate Programming
+* Runtime Verification
+
+## Publications
+
+In [DBLP](https://dblp.org/pid/24/2502.html), in [Cristin](https://app.cristin.no/persons/show.jsf?id=1721) (Norwegian research database, includes pre-prints!).
+
+## Projects
+
+Check out the [FCPP-project](https://fcpp.github.io) for Aggregate Computing that I contribute to.
+
+I've also submitted improvements to the [Home Assistant](https://www.home-assistant.io) smart-home project.
